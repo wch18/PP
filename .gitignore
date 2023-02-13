@@ -1,4 +1,6 @@
 *.exe
-data/
+*.tar.gz
+*.h5
+*.h5df
 datasets/
 test*
