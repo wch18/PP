@@ -1,0 +1,5 @@
+classes = [
+ 'FM',
+ 'AM-SSB-SC',
+ '4ASK',
+ '4QAM']

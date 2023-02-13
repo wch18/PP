@@ -1,0 +1,1 @@
+python train1d.py --batch_size=128 --epochs=90 --init_lr=0.1 --device=cuda:4 --num_classes=4 --snr_gate=16 --samples=2000 --dataset=./datasets/sub_dataset/ --save_path=./checkpoint/resnet1d_2/
